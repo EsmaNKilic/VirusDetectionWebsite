@@ -1,0 +1,34 @@
+body {
+    background-color: #ececec;
+}
+
+
+div .a {
+    margin-left: 950px;
+}
+
+div .yazi {
+    margin-top: 200px;
+    padding-left: 100px;
+}
+
+.buton {
+    margin-left: 350px;
+    margin-top: 70px;
+    background-color: #ff9d00;
+    border: #ff9d00;
+    color: #e1e1de;
+}
+
+div .url {
+    margin-top: 100px;
+}
+
+div .alert {
+    margin-top: 50px;
+}
+
+.foto {
+    margin-left: 850px;
+    margin-top: -350px;
+}
